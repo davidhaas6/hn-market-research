@@ -41,7 +41,7 @@ class HnKeywords:
         "JTBD examples",
     ]
 
-    market_research_terms = [
+    market_research = [
         "market research",
         "market analysis",
         "competitive analysis",
@@ -107,12 +107,9 @@ class HnKeywords:
         "pain points",
         "jobs to be done",
         "JTBD",
-        "early feedback",
-        "customer preferences",
-        "user preferences",
     ]
 
-    customer_interviews_terms = [
+    customer_interviews = [
         "customer interview",
         "user interview",
         "customer feedback session",
@@ -171,7 +168,7 @@ class HnKeywords:
         "exploring user needs",
     ]
 
-    product_validation_terms = [
+    product_validation = [
         "product validation",
         "validating product idea",
         "testing product fit",
@@ -206,6 +203,17 @@ class HnKeywords:
         "collecting feedback on the prototype",
         "evaluating product performance",
         "testing product market hypothesis",
+        'market hypothesis',
+        'product hypothesis',
+    ]
+
+    books = [
+        'mom test',
+        'lean startup',
+        'The Statue in The Stone',
+        'The Lean Product Playbook',
+        'lean customer development',
+        'Zero to one',
     ]
 
     def as_dict():
