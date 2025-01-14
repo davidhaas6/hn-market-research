@@ -84,9 +84,6 @@ class HnKeywords:
 
     overlapping_terms = [
         "user research",
-        "customer feedback",
-        "user feedback",
-        "product feedback",
         "feedback analysis",
         "customer insights",
         "user insights",
@@ -105,7 +102,6 @@ class HnKeywords:
         "understanding the customer",
         "understanding the user",
         "pain points",
-        "jobs to be done",
         "JTBD",
     ]
 
